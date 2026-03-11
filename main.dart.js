@@ -79631,7 +79631,7 @@ $S:0}
 A.afd.prototype={
 $0(){var s=this.a
 if(s.c==null)return
-if(B.c.j6(s.e.a.a)==="rafael"&&s.f.a.a==="estrelas2026")s.a.ajC()
+if(B.c.j6(s.e.a.a)==="rafael"&&s.f.a.a==="01")s.a.ajC()
 else s.af(new A.afb(s))},
 $S:14}
 A.afb.prototype={
