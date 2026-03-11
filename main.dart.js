@@ -63792,7 +63792,7 @@ break
 case 6:case 1:return A.N(q,r)
 case 2:return A.M(o.at(-1),r)}})
 return A.O($async$rr,r)},
-O_(){window.location.href="https://buy.stripe.com/test_5kQ9AMbqecckdFl9Fh7wA00"},
+O_(){window.location.href="https://buy.stripe.com/5kQ9AMbqecckdFl9Fh7wA00"},
 am(){var s,r,q,p,o=this,n=null,m="session_id"
 o.b_()
 s=A.c8(n,B.k3,n,n,o)
